@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-import Hero from "./components/hero.js"
+import Profile from "./components/profile.js"
 import Contact from "./components/contact.js"
 import About from "./components/about.js"
 import Footer from './components/footer.js';
@@ -17,7 +17,7 @@ const App = () => {
       {/* Render the Navbar component */}
 
       {/* Render the Hero component */}
-      <Hero/>
+      <Profile/>
             {/* Render the Hero component */}
 <About/>
 

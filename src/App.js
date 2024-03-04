@@ -1,8 +1,6 @@
 // import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./home.jsx";
-import List from "./listOfObject.jsx";
-import Contact from "./contact.jsx";
 // import Footer from './components/footer.js';
 import Navbar from "./components/navbar.js"
 // Import the necessary CSS file
@@ -23,7 +21,6 @@ function App() {
             <Route path="//assets/Ricardo-A.-peña-G.Resume.pdf" />
 
             {/* Set the contact route */}
-            <Route path="/contact" element={<Contact />} />
           </Routes>
         </div>
         {/* <Footer/> */}

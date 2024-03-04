@@ -1,5 +1,5 @@
 import React from 'react'
-import "../css/hero.css"
+import "../css/profile.css"
 import Linkedin from "../assets/linkedin.png"
 import Github from "../assets/github.png"
 import resumePdf from '../assets/Ricardo-A.-peña-G.Resume.pdf';
